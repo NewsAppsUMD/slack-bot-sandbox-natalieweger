@@ -16,7 +16,7 @@ urls = [
     "https://artiamas.umd.edu/",
     "https://ml.umd.edu/",
     "http://www.cfar.umd.edu/",
-    "http://www.umiacs.umd.edu/"
+    ""
 ]
 
 # Prepare message with publication dates
